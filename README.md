@@ -2,3 +2,4 @@
 This repo is for IEEE Code Slam 
 deployment link fir easy access
 https://codeslam-frontend-lloqd2kfb-sehajpreet-kaurs-projects.vercel.app/
+the code is in master branch 
